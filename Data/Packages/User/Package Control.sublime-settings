@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CSScomb",
+		"Git",
+		"HTML5",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"MarkdownEditing",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}
