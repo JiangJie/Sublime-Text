@@ -28,20 +28,24 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "Package Control: ",
+				"height": 104.0,
+				"last_filter": "install",
 				"selected_items":
 				[
 					[
-						"Package Control: ",
+						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
 					]
 				],
-				"width": 512.0
+				"width": 400.0
 			},
 			"console":
 			{
-				"height": 174.0,
+				"height": 327.0,
 				"history":
 				[
 					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -58,16 +62,34 @@
 			},
 			"expanded_folders":
 			[
-				"/D/Code"
+				"/D/Code",
+				"/D/Code/My/blog",
+				"/D/Code/My/blog/2015-06-30",
+				"/D/Code/My/blog/2015-10-28",
+				"/D/Code/My/blog/2015-10-28/src",
+				"/D/Code/My/blog/2015-10-29"
 			],
 			"file_history":
 			[
+				"/C/Software/Sublime Text/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Software/Sublime Text/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Software/Sublime Text/Data/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+				"/D/Code/My/blog/2015-10-28/src/index.js",
+				"/D/Code/My/blog/2015-10-29/strong.js",
+				"/D/Code/My/blog/2015-10-29/object.md",
+				"/D/Code/My/blog/2015-10-28/src/lib.js",
+				"/D/Code/My/blog/2015-10-28/src/index.html",
+				"/D/Code/My/blog/2015-10-28/gulpfile.js",
+				"/D/Code/My/blog/2015-10-28/object.md",
+				"/D/Code/My/blog/2015-10-28/src/build.js",
+				"/C/Software/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Software/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Code/My/blog/2015-10-28/index.js",
 				"/D/Code/My/blog/2015-08-31/gulp-babel.md",
 				"/D/Code/My/blog/2015-08-31/test.js",
 				"/D/Code/My/blog/2015-08-31/gulpfile.js",
 				"/C/Software/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Software/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Software/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
 				"/C/Software/Sublime Text/Data/Packages/CSScomb/README.md",
 				"/D/Code/Coding/AlloyAccount/web/style/index.css",
 				"/C/Software/Sublime Text/Data/Packages/CSScomb/CSScomb.sublime-settings",
@@ -75,12 +97,11 @@
 				"/D/Code/Coding/AlloyAccount/README.md",
 				"/C/Users/Jarvis/_netrc",
 				"/C/Software/Sublime Text/Data/Packages/User/JsFormat.sublime-settings",
-				"/C/Software/Sublime Text/Data/Packages/JsFormat/JsFormat.sublime-settings",
-				"/C/Software/Sublime Text/Data/Packages/User/Preferences.sublime-settings"
+				"/C/Software/Sublime Text/Data/Packages/JsFormat/JsFormat.sublime-settings"
 			],
 			"find":
 			{
-				"height": 30.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
@@ -95,6 +116,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"~",
 					"```javascript",
 					"delete",
 					".\n",
@@ -164,7 +186,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,721,182,182,838",
+			"position": "0,2,3,-32000,-32000,-1,-1,721,182,182,838",
 			"project": "",
 			"replace":
 			{

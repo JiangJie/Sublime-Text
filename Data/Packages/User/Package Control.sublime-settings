@@ -1,9 +1,11 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"CSScomb",
 		"Git",
 		"HTML5",
@@ -11,6 +13,8 @@
 		"JsFormat",
 		"MarkdownEditing",
 		"Package Control",
+		"ReactJS",
 		"SideBarEnhancements"
-	]
+	],
+	"debug": true
 }
