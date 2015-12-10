@@ -1,12 +1,12 @@
 {
 	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
-	"font_size": 13,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Markdown",
 		"Vintage"
 	],
 	"translate_tabs_to_spaces": true,
-	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
 	"word_wrap": true
 }
