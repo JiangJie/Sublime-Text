@@ -9,10 +9,12 @@
 		"Babel",
 		"CSScomb",
 		"Git",
+		"GitGutter",
 		"HTML5",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"JSHint Gutter",
+		"JSX",
 		"MarkdownEditing",
 		"Nodejs",
 		"NodeRequirer",
@@ -20,6 +22,7 @@
 		"Package Control",
 		"React Templates",
 		"ReactJS",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"SVN"
 	]
 }
