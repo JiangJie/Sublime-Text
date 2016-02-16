@@ -11,26 +11,6 @@
   "esnext": true,
   "globals": {},
   "globalstrict": true,
-  "quotmark": true,
   "undef": true,
-  "unused": true,
-
-  // "func" - there must be a "use strict"; directive at function level
-  // "global" - there must be a "use strict"; directive at global level
-  // "implied" - lint the code as if there is the "use strict"; directive
-  // false - disable warnings about strict mode
-  // true - same as "func", but environment options have precedence over
-  "strict": true,
-
-  // This option defines globals available when using the Browserify tool to build a project.
-  "browserify": true,
-
-  //This option defines globals that are usually used for logging poor-man's debugging: console, alert, etc. It is usually a good idea to not ship them in production because, for example, console.log breaks in legacy versions of Internet Explorer.
-  "devel": true,
-
-  // This option is used to specify the ECMAScript version to which the code must adhere. It can assume one of the following values:
-  // 3 - If you need your program to be executable in older browsers—such as Internet Explorer 6/7/8/9—and other legacy JavaScript environments
-  // 5 - To enable syntax first defined in the ECMAScript 5.1 specification. This includes allowing reserved keywords as object properties.
-  // 6 - To tell JSHint that your code uses ECMAScript 6 specific syntax. Note that not all browsers implement them.
-  "esversion": 6
+  "unused": true
 }
