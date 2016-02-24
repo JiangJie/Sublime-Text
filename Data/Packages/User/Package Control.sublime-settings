@@ -7,6 +7,7 @@
 	"installed_packages":
 	[
 		"Babel",
+		"BracketHighlighter",
 		"CSScomb",
 		"Git",
 		"GitGutter",
@@ -23,6 +24,9 @@
 		"React Templates",
 		"ReactJS",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SVN"
 	]
 }
