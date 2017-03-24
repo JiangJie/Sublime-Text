@@ -4,4 +4,7 @@
     "args": {
         "file": "res://Packages/Default/Delete Line.sublime-macro"
     }
-}, { "keys": ["ctrl+alt+`"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }]
+}, { "keys": ["ctrl+alt+`"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }, {
+    "keys": ["ctrl+alt+u"],
+    "command": "usestrict"
+}]

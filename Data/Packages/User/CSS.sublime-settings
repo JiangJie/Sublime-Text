@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"styl"
+		"styl",
+		"wxss"
 	]
 }
